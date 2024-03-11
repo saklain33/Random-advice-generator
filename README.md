@@ -1,19 +1,14 @@
-# Random-advice-generator
+# Random Advice Generator 📝
 
-A simple React application that fetches a random piece of advice from the Advice Slip API and displays it on the screen. Users can click a button to fetch new advice.
+A simple React application that fetches a random piece of advice from the Advice Slip API and displays it on the screen with error handling. Users can click a button to fetch new advice. If error occurs it will appear error message in the UI.
 
-## Technologies Used:
+## Technologies Used: 💻
 
-## React
+📌 React
+📌 Axios
 
-## Axios
+## Features:
 
-# Features:
-
-### Fetches random advice from an external API
-
-### Displays the advice on the screen
-
-### Allows users to fetch new advice with a button click
-
-> > > > > > > b50e8bed466515cc3fb487cd2c39ef20d699c194
+✅ Fetches random advice from an external API
+✅ Displays the advice on the screen
+✅ Allows users to fetch new advice with a button click
