@@ -13,8 +13,8 @@ A simple React application that fetches a random piece of advice from the Advice
 - Displays the advice on the screen ✅
 - Allows users to fetch new advice with a button click ✅
 
+![Screenshot from 2024-03-12 02-27-23](https://github.com/saklain33/Random-advice-generator/assets/109422430/e4ebafd0-8bea-43b5-8635-f0053058fb86)
 
-![Screenshot from 2024-03-12 02-23-30](https://github.com/saklain33/Random-advice-generator/assets/109422430/55090178-a0cf-4db5-b066-afaae613890d)
 
 
 ![Screenshot from 2024-03-12 02-19-54](https://github.com/saklain33/Random-advice-generator/assets/109422430/89032836-3c2b-4705-8cb1-421e3910521e)
