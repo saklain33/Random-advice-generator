@@ -4,8 +4,8 @@ A simple React application that fetches a random piece of advice from the Advice
 
 ## Technologies Used: 💻
 
-- React 📌
-- Axios 📌
+- _React_ 📌
+- _Axios_ 📌
 
 ## Features:
 
