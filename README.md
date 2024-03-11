@@ -4,11 +4,11 @@ A simple React application that fetches a random piece of advice from the Advice
 
 ## Technologies Used: 💻
 
-📌 React
-📌 Axios
+_📌 React_
+_📌 Axios_
 
 ## Features:
 
-✅ Fetches random advice from an external API
-✅ Displays the advice on the screen
-✅ Allows users to fetch new advice with a button click
+_✅ Fetches random advice from an external API_
+_✅ Displays the advice on the screen_
+_✅ Allows users to fetch new advice with a button click_
