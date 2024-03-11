@@ -23,7 +23,7 @@ export default function App() {
   return (
     <div className="flex h-screen items-center justify-center bg-gradient-to-tl from-rose-300 to-sky-500 text-white">
       <div
-        className={`max-w-5xl gap-14 rounded-md p-16 text-center ${getAdvice ? "outline outline-1 " : ""}`}
+        className={`max-w-5xl gap-14 rounded-md p-16 text-center ${getAdvice ? "outline outline-2 " : ""}`}
       >
         {getAdvice ? (
           <h1 className="font-Modimi text-5xl leading-snug tracking-wider">
