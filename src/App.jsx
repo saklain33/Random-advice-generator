@@ -13,10 +13,8 @@ export default function App() {
           `Failed to fetch data, something went wrong ${response.status}`,
         );
       }
-      console.log(response);
       setGetAdvice(response.data.slip.advice);
     } catch (error) {
-      console.log("Error caught:", error);
       setError(error.message);
       setGetAdvice("");
     }
