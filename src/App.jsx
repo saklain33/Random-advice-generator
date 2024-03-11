@@ -7,7 +7,7 @@ export default function App() {
 
   const fetchAdvice = async () => {
     try {
-      const response = await axios.get("https://api.adviceslip.com/advicee");
+      const response = await axios.get("https://api.adviceslip.com/advice");
       if (response.status !== 200) {
         throw new Error(
           `Failed to fetch data, something went wrong ${response.status}`,
