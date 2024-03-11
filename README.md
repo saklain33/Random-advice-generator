@@ -12,4 +12,4 @@ Allows users to fetch new advice with a button click
 How to Run:
 Clone the repository: git clone https://github.com/your-username/your-repo.git
 Install dependencies: npm install
-Run the development server: npm start
+Run the development server: npm run dev
